@@ -1,9 +1,9 @@
 {
-	"name": "whatsapp-chatgpt",
+	"name": "Nova-x AI",
 	"version": "1.0.0",
-	"description": "Whatsapp bot that uses OpenAI's GPT & DALLE to respond to user inputs",
+	"description": "A helpfulWhatsApp bot used for many tasks ",
 	"main": "src/index.ts",
-	"author": "Askrella Software Agency UG (haftungsbeschränkt)",
+	"author": "Novastar.dev",
 	"scripts": {
 		"start": "npx vite-node src/index.ts",
 		"prettier": "prettier --write ./src"
